@@ -1,4 +1,4 @@
-### Hi Hi there 👋
+### Hi there 👋
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/grarich/posts.svg)](https://qiita.com/grarich)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/grarich/contributions.svg)](https://qiita.com/grarich)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/grarich/followers.svg)](https://qiita.com/grarich)
